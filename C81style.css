@@ -1,0 +1,19 @@
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+h1
+{
+	color: rgb(8, 51, 243); 
+	font-size: 80px;
+}
+#myCanvas{
+	border-width: 10px;
+	background-color: blueviolet;
+	border-style: dotted;
+}
+span
+{
+	font-size: 30px;
+}
